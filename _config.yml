@@ -2,7 +2,7 @@ title: stevededoncker.github.io
 twitter_username: stevededoncker
 github_username: stevededoncker
 linkedin_username: stevededoncker
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
  - jekyll-feed
  - jekyll-sitemap
