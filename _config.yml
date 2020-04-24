@@ -1,1 +1,10 @@
+title: stevededoncker.github.io
+show_excerpts: true
+permalink: /:categories/:title
+twitter_username: stevededoncker
+github_username: stevededoncker
+linkedin_username: stevededoncker
 theme: jekyll-theme-cayman
+plugins:
+ - jekyll-feed
+ - jekyll-sitemap
