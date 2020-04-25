@@ -120,7 +120,7 @@ author:
       url: "https://github.com/stevededoncker"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com//stevededoncker"
 
 # Site Footer
 footer:
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://instagram.com/stevededoncker/
 
 
 # Reading Files
