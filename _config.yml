@@ -4,3 +4,10 @@ header_pages:
 author:
   name: Steve De Doncker
   email: "steve(dot)incunabula(at).be"
+minima:
+  social_links:
+    twitter: stevededoncker
+    github: stevededoncker
+    stackoverflow: "stevededoncker"
+    instagram: stevededoncker
+    linkedin: stevededoncker
