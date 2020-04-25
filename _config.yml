@@ -1,10 +1,11 @@
 theme: minima
-header_pages:
-  - about.md
+
 minima:
   social_links:
     twitter: stevededoncker
     github: stevededoncker
     instagram: stevededoncker
     linkedin: stevededoncker
-show_excerpts: true
+  show_excerpts: true
+  header_pages:
+    - about.md
