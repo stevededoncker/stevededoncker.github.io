@@ -2,6 +2,7 @@
 layout: single
 title: whoami
 permalink: /whoami/
+author_profile: true
 ---
 
 ```
