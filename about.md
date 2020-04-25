@@ -1,5 +1,6 @@
-whoami
-======
+---
+title: whoami
+---
 
 ```
 $~: whoami
