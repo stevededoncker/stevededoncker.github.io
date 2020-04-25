@@ -53,8 +53,7 @@ header_pages:
 permalink: /:title/
 
 # Build settings
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+theme: minima
 
 plugins:
  - jekyll-feed
