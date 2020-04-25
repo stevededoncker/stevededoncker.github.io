@@ -50,7 +50,7 @@ minima:
 header_pages:
  - about.md
 
-permalink: /:date/:title/
+permalink: /:title/
 
 # Build settings
 theme: minima
