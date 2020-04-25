@@ -2,7 +2,7 @@ title: Steve's blog
 author:
   name: Steve De Doncker
   email: noreply@incunabula.be
-description: > # this means to ignore newlines until "show_excerpts:"
+description: #> # this means to ignore newlines until "show_excerpts:"
   Bourgeois bohemian. Dad. Endurance junkie. Living the dotcom dream.
   
   Hosted op Github-Pages met Jekyll.
