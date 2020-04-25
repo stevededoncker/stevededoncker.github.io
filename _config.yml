@@ -85,7 +85,7 @@ social:
     - "https://twitter.com/stevededoncker"
     #- "https://www.facebook.com/yourFacebook"
     - "https://instagram.com/stevededoncker"
-    - "https://www.linkedin.com/in/stevededoncker"
+    - "https://linkedin.com/in/stevededoncker"
 
 # Analytics
 analytics:
@@ -111,7 +111,7 @@ author:
       # url: "https://your-website.com"
     - label: "Linkedin"
       icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/stevededoncker"
+      url: "https://linkedin.com/in/stevededoncker"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/stevededoncker"
@@ -123,14 +123,14 @@ author:
       url: "https://github.com/stevededoncker"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com//stevededoncker"
+      url: "https://instagram.com/stevededoncker"
 
 # Site Footer
 footer:
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/stevededoncker"
+      url: "https://linkedin.com/in/stevededoncker"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/stevededoncker"
