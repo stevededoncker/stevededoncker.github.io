@@ -1,5 +1,8 @@
 ---
 layout: post
-title: 'I love pizza!'
+title: 'First post!'
 ---
-first post
+
+```
+$ ruby -e "puts 'Hello, world!'"
+```
