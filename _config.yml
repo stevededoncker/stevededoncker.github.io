@@ -110,7 +110,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/stevededoncker"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -129,7 +129,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/stevededoncker"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
