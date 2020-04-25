@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'First post!'
-tags: [ruby, n00b]
+tags: [git, n00b]
 ---
 
 ```
-$ ruby -e "puts 'Hello, world!'"
+$ git remote add origin git@gitserver:/srv/git/project.git
 ```
 
 ![xkcd - git](/assets/images/xkcd-git.png)
