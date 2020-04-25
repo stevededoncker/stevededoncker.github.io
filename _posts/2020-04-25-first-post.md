@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'First post!'
-tags: [hot, summer]
+tags: [ruby, n00b]
 ---
 
 ```
