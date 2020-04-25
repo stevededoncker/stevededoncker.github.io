@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'First post!'
+categories: [blog, travel]
+tags: [hot, summer]
 ---
 
 ```
