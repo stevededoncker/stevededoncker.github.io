@@ -1,4 +1,4 @@
 ---
 layout: home
-list_title: "Latest Posts"
+list_title: "Recente Posts"
 ---
