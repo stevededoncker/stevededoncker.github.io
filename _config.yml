@@ -1,11 +1,1 @@
-title: stevededoncker.github.io
-name: Steve's public page on github
-description: Steve's public page on github
-twitter_username: stevededoncker
-github_username: stevededoncker
-linkedin_username: stevededoncker
-theme: jekyll-theme-slate
-markdown: kramdown
-plugins:
- - jekyll-feed
- - jekyll-sitemap
+theme: minima
