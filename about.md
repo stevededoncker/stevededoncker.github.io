@@ -1,5 +1,6 @@
 ---
 title: whoami
+permalink: /whoami/
 ---
 
 ```
