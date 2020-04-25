@@ -51,6 +51,8 @@ header_pages:
  - about.md
  - social.md
 
+permalink: /:date/:title/
+
 # Build settings
 theme: minima
 
