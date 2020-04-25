@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Steve De Doncker"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Bourgeois bohemian. Dad. Endurance junkie. Living the dotcom dream."
   location         : "Loppem | Coq s/mer"
-  email            :
+  email            : "noreply@incunabula.be"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
