@@ -10,10 +10,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "posts"
+  - title: "berichten"
     url: /year-archive/
-  - title: "categories"
+  - title: "categoriën"
     url: /categories/
-  - title: "tags"
+  - title: "labels"
     url: /tags/
     
