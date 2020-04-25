@@ -8,4 +8,4 @@ tags: [ruby, n00b]
 $ ruby -e "puts 'Hello, world!'"
 ```
 
-![image tooltip here](/assets/images/xkcd-git.png)
+![xkcd - git](/assets/images/xkcd-git.png)
