@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
   - title: "berichten"
     url: /year-archive/
-  - title: "categoriën"
+  - title: "categorieën"
     url: /categories/
   - title: "labels"
     url: /tags/
