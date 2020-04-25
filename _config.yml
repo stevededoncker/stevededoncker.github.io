@@ -84,7 +84,7 @@ social:
   links:
     - "https://twitter.com/stevededoncker"
     #- "https://www.facebook.com/yourFacebook"
-    #- "https://instagram.com/yourProfile"
+    - "https://instagram.com/stevededoncker"
     - "https://www.linkedin.com/in/stevededoncker"
 
 # Analytics
@@ -109,6 +109,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stevededoncker"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/stevededoncker"
@@ -125,6 +128,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stevededoncker"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/stevededoncker"
