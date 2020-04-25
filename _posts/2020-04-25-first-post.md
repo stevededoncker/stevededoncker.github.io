@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'First post!'
 tags: [git, n00b]
 ---

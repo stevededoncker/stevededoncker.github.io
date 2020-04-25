@@ -1,4 +1,5 @@
 ---
+layout: single
 title: whoami
 permalink: /whoami/
 ---
