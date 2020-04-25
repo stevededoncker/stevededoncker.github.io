@@ -866,7 +866,7 @@ nl: &DEFAULT_NL
   powered_by                 : "Aangedreven door"
   website_label              : "Website"
   email_label                : "Email"
-  recent_posts               : ""
+  recent_posts               : "Recente berichten"
   undefined_wpm              : "Niet gedefinieerde parameter words_per_minute bij _config.yml"
   comment_form_info          : "Uw e-mailadres wordt niet gepubliceerd. Verplichte velden zijn gemarkeerd"
   comment_form_comment_label : "Commentaar"
