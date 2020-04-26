@@ -3,6 +3,7 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "whoami"
+    description: "About contact"
     url: /whoami/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -11,9 +12,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "posts"
+    description: "All posts by year"
     url: /year-archive/
   - title: "categories"
+    description: "All posts by category"
     url: /categories/
   - title: "tags"
+    description: "All posts by tag"
     url: /tags/
     
