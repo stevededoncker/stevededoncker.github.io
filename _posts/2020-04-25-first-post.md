@@ -14,7 +14,7 @@ $ git remote add origin git@gitserver:/srv/git/project.git
 {% endcapture %}
 
 {% capture fig_caption %}
-source: https://xkcd.com/1597/
+source: [https://xkcd.com/1597/](https://xkcd.com/1597/)
 {% endcapture %}
 
 <figure>
