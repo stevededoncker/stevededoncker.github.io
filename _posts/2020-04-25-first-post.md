@@ -9,6 +9,15 @@ categories: [misc]
 $ git remote add origin git@gitserver:/srv/git/project.git
 ```
 
-| ![xkcd - git](/assets/images/xkcd-git.png) |
-|:--:|
-| *source: [https://xkcd.com/1597/](https://xkcd.com/1597/)* |
+{% capture fig_img %}
+[![xkcd - git](/assets/images/xkcd-git.png)](https://xkcd.com/1597/)
+{% endcapture %}
+
+{% capture fig_caption %}
+source: https://xkcd.com/1597/
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: “<p>” | remove: “</p>” }}
+  <figcaption>{{ fig_caption | markdownify | remove: “<p>” | remove: “</p>” }}</figcaption>
+</figure>
