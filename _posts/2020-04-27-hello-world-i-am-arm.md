@@ -1,11 +1,11 @@
 ---
 layout: single
-title: 'First post!'
+title: 'Hello World, I am ARM'
 tags: [ARM, Apple]
 categories: [misc, ARM, Apple]
 ---
 
-Today is the 35th anniversary of powering up the first ARM processor, ARM stands for Acorn RISC Machine.
+Today marks the 35th anniversary of powering up the first ARM processor, ARM stands for Acorn RISC Machine.
 
 Principal designer behind the BBC Micro and the ARM microprocessor, Prof Steve Furber recalled the arrival of the first ARM processor in a Centre for Computing History [http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/](blog post).
 
