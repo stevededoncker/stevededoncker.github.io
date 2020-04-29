@@ -11,7 +11,7 @@ Principal designer behind the BBC Micro and the ARM microprocessor, Prof Steve F
 
 >"At 1pm on April 26th 1985, the first ARM microprocessors arrived back from the manufacturer - VTI. They were put straight into the development system which was fired up with a tweak or two and, at 3pm, the screen displayed: 'Hello World, I am ARM'."
 
-1985 was also the year of the Commodore Amiga launch, the first Microsoft Windows release, foundation of NeXT Computers and the Intel i386 chip.
+1985 was also the year of the Commodore Amiga launch, the first Microsoft Windows release, the founding of NeXT Computers and the birth of the Intel i386 chip.
 
 ARM presentation to Apple Computer 1992
 {% include video id="ZV1NdS_w4As" provider="youtube" %}
